@@ -9,5 +9,3 @@ Integrantes
 
 	-Nombre del Estudiante 03: Alva Chanta Edson Alcides
 		Git Hub: https://github.com/EAlvaCH/EPS1-Parte03
-
-		Git Hub: https://github.com/EAlvaCH/EPS1-Parte04
