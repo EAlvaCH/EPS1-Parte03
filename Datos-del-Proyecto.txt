@@ -1,0 +1,13 @@
+
+Integrantes
+	-Nombre del Estudiante 01: Flores Chamba Jose
+		Git Hub: https://github.com/JfloresXc/EPS1-Parte01
+
+
+	-Nombre del Estudiante 02: Motta Mendoza Miguel Angel
+		Git Hub: https://github.com/Miguel2897/EPS1-Parte02.git
+
+	-Nombre del Estudiante 03: Alva Chanta Edson Alcides
+		Git Hub: https://github.com/EAlvaCH/EPS1-Parte03
+
+		Git Hub: https://github.com/EAlvaCH/EPS1-Parte04
